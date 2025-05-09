@@ -1,0 +1,82 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\EmployeeManagement\\EmployeeManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{642FB6EA-3577-418A-9884-027D2A091DE8}|EmployeeManagementApi\\EmployeeManagementApi.csproj|d:\\employeemanagement\\employeemanagement\\employeemanagementapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{642FB6EA-3577-418A-9884-027D2A091DE8}|EmployeeManagementApi\\EmployeeManagementApi.csproj|solutionrelative:employeemanagementapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{642FB6EA-3577-418A-9884-027D2A091DE8}|EmployeeManagementApi\\EmployeeManagementApi.csproj|d:\\employeemanagement\\employeemanagement\\employeemanagementapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{642FB6EA-3577-418A-9884-027D2A091DE8}|EmployeeManagementApi\\EmployeeManagementApi.csproj|solutionrelative:employeemanagementapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 444,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 124,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\EmployeeManagement\\EmployeeManagement\\EmployeeManagementApi\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "EmployeeManagementApi\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\EmployeeManagement\\EmployeeManagement\\EmployeeManagementApi\\Properties\\launchSettings.json",
+              "RelativeToolTip": "EmployeeManagementApi\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABoAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-08T23:19:18.929Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\EmployeeManagement\\EmployeeManagement\\EmployeeManagementApi\\Program.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementApi\\Program.cs",
+              "ToolTip": "D:\\EmployeeManagement\\EmployeeManagement\\EmployeeManagementApi\\Program.cs",
+              "RelativeToolTip": "EmployeeManagementApi\\Program.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAAADcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T22:55:29.167Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 120,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
